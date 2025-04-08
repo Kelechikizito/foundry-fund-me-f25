@@ -134,6 +134,6 @@ MIT License
 
 ## 🙌 Acknowledgements
 
-Inspired by [Patrick Collins' Solidity Bootcamp](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+Inspired by [Patrick Collins' Solidity Foundry](https://github.com/Cyfrin/foundry-full-course-cu)
 
 ---
